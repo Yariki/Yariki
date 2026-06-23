@@ -16,8 +16,8 @@ I am a Software Engineer specializing in architecting scalable backend systems, 
 - **Infrastructure:** Evaluating and deploying secure, self-hosted open-source enterprise alternatives to optimize operational workflows.
 
 ## 📫 Let's Connect
-- **LinkedIn:** [Insert your LinkedIn URL here]
-- **Email:** [Insert your Email here]
+- **LinkedIn:** [https://www.linkedin.com/in/yariki/]
+- **Email:** [iyariki.ya@gmail.com]
 
 ---
 *Architecting robust tools, scalable APIs, and distributed automation pipelines.*
